@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments and local secrets
+.venv/
+venv/
+.env
+.env.*
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Temporary files
+*.log
+*~
